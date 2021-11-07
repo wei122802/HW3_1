@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\c_code\hw3-1\p20\source\main.c(11): warning C4087: 'rand': 搭配 'void' 參數清單宣告
+  P20.vcxproj -> C:\c_code\HW3-1\P20\P20\Debug\P20.exe
